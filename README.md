@@ -9,9 +9,6 @@
   
    
 <p align="center">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md" />
-  </a>
   <a aria-label="Suhail_Md is free to use" href="https://github.com/grailee/reSuhail-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
@@ -57,14 +54,12 @@
  
 ## Deployment Methods
 ---
-1.  ***Get [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get [`SESSION ID 1`](https://suhail-md-vtsf.onrender.com/code), [`SCAN QR`](https://suhail-md-vtsf.onrender.com/scan) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
-3.  ***Click [`FORK`](https://github.com/grailee/reSuhail-MD/fork) and `Star ⭐ Repository` if you Like that Bot.***
+3.  ***Click [`FORK`](https://github.com/grailee/Suhail-MD-koyeb/fork) and `Star ⭐ Repository` if you Like that Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
-5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/grailee/reSuhail-MD)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/grailee/reSuhail-MD)***
+6.  ***Deploy on [`KOYEB`](https://dashboard.heroku.com/new?template=https://github.com/grailee/reSuhail-MD)***
 
 ##
 
@@ -78,11 +73,7 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 - Star ⭐ repo if you like this bot.
 
 
-
 ### Thanks To
 - [Sam Pamday](https://github.com/Sampandey001) 
 
-
-The Suhail_Md is made available under the [GPL-3 license](https://github.com/grailee/reSuhail-MD/blob/main/LICENCE).
-
-##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/grailee/reSuhail-MD)
+##Deploy on [`KOYEB`]( https://dashboard.heroku.com/new?template=https://github.com/grailee/reSuhail-MD)
